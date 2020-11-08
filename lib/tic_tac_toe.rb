@@ -128,4 +128,3 @@ def play(board)
     puts "Cat's Game!"
 end
 # Define your WIN_COMBINATIONS constant
-
